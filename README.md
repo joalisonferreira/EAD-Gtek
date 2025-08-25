@@ -28,6 +28,9 @@ Desenvolver uma plataforma EAD moderna e responsiva para capacitação técnica 
 - [Moodle](https://moodle.org/) - LMS principal
 - HTML, PHP - Sistema de verificação de certificados
 - Python - Geração de certificados e tutoriais
+- Uso do SCORM isEazy para criação dos cursos
+- Docker como tecnologia usada para desenvolvimento e produção.
+- Microsoft Azure como plataforma de hospedagem oficial.
 - Plugins Moodle: Custom Certificate, H5P, Quiz, Lição
 
 ## 🛠️ Instalação
